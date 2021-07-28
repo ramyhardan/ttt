@@ -1,0 +1,8 @@
+{
+    "name": "TTT - Prof. Hahn",
+    "description": "Time to Token - Werke von Prof. Christian Hahn",
+    "image": "https://ramyhardan.github.io/ttt-meta/1/media/1.jpg",
+    "external_link": "https://time-to-token.com",
+    "seller_fee_basis_points": 700,
+    "fee_recipient": "0xdac34a9757bad176e7914bdc29ac1250b8ee82c5"
+}
